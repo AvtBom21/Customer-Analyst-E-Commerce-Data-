@@ -1,7 +1,6 @@
 # 🛍️ Customer Analyst - E-Commerce Data
 
 Phân tích hành vi khách hàng từ dữ liệu giao dịch thương mại điện tử để khám phá những thông tin quan trọng phục vụ cho hoạt động tiếp thị, phân khúc khách hàng và tối ưu hóa doanh thu.
-Lưu ý: Dự án đang dang dở, vẫn đang tiếp tục.
 ---
 
 ## 📊 Mục tiêu dự án
