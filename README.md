@@ -1,9 +1,9 @@
-# 🛍️ Customer Analyst - E-Commerce Data
+# Customer Analyst - E-Commerce Data
 
 Phân tích hành vi khách hàng từ dữ liệu giao dịch thương mại điện tử để khám phá những thông tin quan trọng phục vụ cho hoạt động tiếp thị, phân khúc khách hàng và tối ưu hóa doanh thu.
 ---
 
-## 📊 Mục tiêu dự án
+## Mục tiêu dự án
 
 - Phân tích dữ liệu mua hàng để xác định các phân khúc khách hàng (Customer Segmentation).
 - Khám phá các yếu tố ảnh hưởng đến hành vi mua hàng.
@@ -11,7 +11,7 @@ Phân tích hành vi khách hàng từ dữ liệu giao dịch thương mại đ
 
 ---
 
-## 📁 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 | Tên file                  | Mô tả                                                                 |
 |--------------------------|------------------------------------------------------------------------|
@@ -22,7 +22,7 @@ Phân tích hành vi khách hàng từ dữ liệu giao dịch thương mại đ
 
 ---
 
-## 📈 Dữ liệu sử dụng
+## Dữ liệu sử dụng
 
 - **Nguồn:** Dữ liệu bán hàng E-Commerce (giả lập hoặc thực tế tuỳ theo bạn).
 - **Các trường chính:**
@@ -32,7 +32,7 @@ Phân tích hành vi khách hàng từ dữ liệu giao dịch thương mại đ
 
 ---
 
-## 🔍 Quy trình xử lý & phân tích
+## Quy trình xử lý & phân tích
 
 1. **Tiền xử lý dữ liệu** với Python:
    - Làm sạch dữ liệu trùng, null, lỗi định dạng
@@ -50,7 +50,7 @@ Phân tích hành vi khách hàng từ dữ liệu giao dịch thương mại đ
 
 ---
 
-## 🛠️ Công cụ & công nghệ
+## Công cụ & công nghệ
 
 - `Python`: Tiền xử lý dữ liệu (pandas, numpy)
 - `Jupyter Notebook`: Lưu quá trình xử lý
